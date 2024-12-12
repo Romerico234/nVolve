@@ -46,7 +46,7 @@ Follow these steps to clone the repository and set up nVolve locally:
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/curlyLasagna/COSC435_Project.git
+   git clone https://github.com/Romerico234/nVolve.git
    cd nVolve/
 2. Open the project in Xcode:
    ```bash
